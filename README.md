@@ -41,8 +41,9 @@ The following **additional** features are implemented:
 
 Here's a walkthrough of implemented required features:
 
-<img src='https://imgur.com/gallery/project-2-flashcard-tUz5mbk.gif' title='Video Walkthrough' width='' alt='Video Walkthrough' />
+<img src='https://imgur.com/gallery/flashcard-ui-QtWWbXT' title='Video Walkthrough' width='' alt='Video Walkthrough' />
 
+gif link: https://imgur.com/gallery/flashcard-ui-QtWWbXT
 <!-- Replace this with whatever GIF tool you used! -->
 GIF created with ...  
 <!-- Recommended tools:
